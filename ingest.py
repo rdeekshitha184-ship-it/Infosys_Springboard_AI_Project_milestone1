@@ -66,6 +66,8 @@
 
 # print("Vector store created successfully!")
 
+# or
+
 # STEP 1: Imports
 import os
 import shutil
